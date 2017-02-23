@@ -36,5 +36,7 @@ We have not create a web site to keep the suites private as possible. Even with 
 ## How to buy it ?
 To purchase the hack for anygame you will need to add us over skype, like that we gonna be able to do an interview with you and check if your valid for purchase.
 
-<a href="http://www.freeiconspng.com/uploads/buy-png-20.png">Contact us!</a>
+<a href="skype:********?call">Link will initiate Skype to call my Skype username!</a>
+
+<a href="s">Contact us!</a>
 

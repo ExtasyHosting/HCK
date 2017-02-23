@@ -12,7 +12,6 @@ Every games only have 20 slots available to purchase in the same time. Like that
 | GTA V | $35 USD | 0 |In build |
 | H1Z1 | $45 USD | 20 | Available |
 **The advertised prices are per month, we don't offer more time for a first purchase.
-
 **If you want to purchase more then one month you need to be admited clients and contact us. 
 
 ### Compatibility

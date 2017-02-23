@@ -18,7 +18,7 @@ Every games only have 20 slots available to purchase in the same time. Like that
 * We recommend Windows 10 with build 1607 for better optimization.
 
 ### Security Overview
-* ### Unique Builds
+* Unique Builds
 
 Every time the cheat is loaded, a completely unique build is generated just for you. Our proprietary Polyflower polymorphic technology hides from signature- and stack-based detections.
 * Kernel Mode Driver

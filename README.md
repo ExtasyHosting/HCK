@@ -27,3 +27,7 @@ We dont really use driver or usermode method like all other provider. Our bypass
 * In Numbers
 
 We keep our slot limit low to keep it low-key. Like that we are able to choose people who will have access to HCK_. A lots of logs is read to make sure your client is still legit as they should be.
+
+* No web site
+
+We have not create a web site to keep the suites private as possible. Even with the GitHub page you will need to do a interview on skype.

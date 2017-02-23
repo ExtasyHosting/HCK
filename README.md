@@ -38,4 +38,5 @@ To purchase the hack for anygame you will need to add us over skype, like that w
 
 [![N](http://www.freeiconspng.com/uploads/buy-png-20.png)](skype:extasy_hosting?add)
 ![N](https://www.paypalobjects.com/webstatic/mktg/Logo/AM_SbyPP_mc_vs_ms_ae_UK.png)
+
 **Only paypal is accepted, BTC coming soon

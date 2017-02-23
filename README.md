@@ -36,7 +36,14 @@ We have not create a web site to keep the suites private as possible. Even with 
 ## How to buy it ?
 To purchase the hack for anygame you will need to add us over skype, like that we gonna be able to do an interview with you and check if your valid for purchase.
 
-<a href="skype:********?call">Link will initiate Skype to call my Skype username!</a>
-
-<a href="s">Contact us!</a>
-
+<div id="call_32" style="width:20%;background-color:#0094ff">
+   <script type="text/javascript">
+        Skype.ui({
+            name: "call",
+            element: "call_32",
+            participants: ["echo123"],
+            imageSize: 32,
+            imageColor: "white"
+        });
+    </script>
+</div>

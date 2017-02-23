@@ -16,3 +16,11 @@ Every games only have 20 slots available to purchase in the same time. Like that
 ### Compatibility
 * All HCK_ Cheats products require 64-bit Windows and Windows 7/8.1/10. 
 * We recommend Windows 10 with build 1607 for better optimization.
+
+### Security Overview
+* ###### Unique Builds
+Every time the cheat is loaded, a completely unique build is generated just for you. Our proprietary Polyflower polymorphic technology hides from signature- and stack-based detections.
+* ###### Kernel Mode Driver
+We dont really use driver or usermode method like all other provider. Our bypass uses sophisticated techniques to obfuscate the cheat code in memory, making cheat code look like normal game data. Our bypass also uses advanced rootkit-like techniques to prevent driver detections.
+* ###### In Numbers
+We keep our slot limit low to keep it low-key. Like that we are able to choose people who will have access to HCK_. A lots of logs is read to make sure your client is still legit as they should be.

@@ -34,7 +34,8 @@ We keep our slot limit low to keep it low-key. Like that we are able to choose p
 We have not create a web site to keep the suites private as possible. Even with the GitHub page you will need to do a interview on skype.
 
 ## How to buy it ?
-To purchase the hack for anygame you will need to add us over skype, like that we gonna be able to do an interview with you and check if your valid for purchase.
+To purchase the some hack you will need to contact us over skype or email. Like that we gonna be able to do an interview with you and check if your valid for purchase. 
 
 * **Skype:** extasy_hosting
 * **Email:** killer68.big.cool@gmail.com
+If you contact us by email you still need to have skype for the interview

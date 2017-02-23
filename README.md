@@ -39,7 +39,7 @@ To purchase the some hack you will need to contact us over skype or email. Like 
 * **Skype:** extasy_hosting
 * **Email:** killer68.big.cool@gmail.com
 
-> **Informations: ** Some informations:
+> **Informations:** Some informations:
 
 > - Like that we gonna be able to do an interview with you and check if your valid for purchase.
 > - If you contact us by email you still need to have skype for the interview.

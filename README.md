@@ -3,6 +3,7 @@ HCK_ is a hacking suites for BE, EAC, VAC protected games.
 The concept with HCK_ is to provide some undetected prestiges hacks for legit people.
 Every games only have 20 slots available to purchase in the same time. Like that we can have control on everything.
 
+#### 1 Month
 | Games | Price* | Slots | Status |
 | ------ | ------ | ------ | ------ |
 | ARMA 3 | $50 USD | 2  | Available |

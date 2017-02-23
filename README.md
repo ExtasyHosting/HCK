@@ -36,5 +36,5 @@ We have not create a web site to keep the suites private as possible. Even with 
 ### How to buy it ?
 To purchase the hack for anygame you will need to add us over skype, like that we gonna be able to do an interview with you and check if your valid for purchase. 
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[Add Skype](skype:extasy_hosting?add)
 **Only paypal is accepted, BTC coming soon

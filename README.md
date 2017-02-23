@@ -5,7 +5,7 @@ Every games only have 20 slots available to purchase in the same time. Like that
 
 | Games | Price* | Slots | Status |
 | ------ | ------ | ------ | ------ |
-| ARMA 3 | $50 USD | 2  | Available |
+| ARMA 3 | $60 USD | 2  | Available |
 | Battlefield 1 | $25 USD | 0 | In build |
 | CS:GO | $25 USD | 20 | Available |
 | DayZ | $50 USD | 0 | In build |

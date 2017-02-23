@@ -32,3 +32,9 @@ We keep our slot limit low to keep it low-key. Like that we are able to choose p
 * No web site
 
 We have not create a web site to keep the suites private as possible. Even with the GitHub page you will need to do a interview on skype.
+
+### How to buy it ?
+To purchase the hack for anygame you will need to add us over skype, like that we gonna be able to do an interview with you and check if your valid for purchase. 
+[![N](http://www.freeiconspng.com/uploads/buy-png-20.png)](skype:extasy_hosting?add)
+![N](https://www.paypalobjects.com/webstatic/mktg/Logo/AM_SbyPP_mc_vs_ms_ae_UK.png)
+**Only paypal is accepted, BTC coming soon

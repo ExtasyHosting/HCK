@@ -37,6 +37,4 @@ We have not create a web site to keep the suites private as possible. Even with 
 To purchase the hack for anygame you will need to add us over skype, like that we gonna be able to do an interview with you and check if your valid for purchase. 
 
 [![N](http://www.freeiconspng.com/uploads/buy-png-20.png)](skype:extasy_hosting?add)
-[![N](https://www.paypalobjects.com/webstatic/mktg/Logo/AM_SbyPP_mc_vs_ms_ae_UK.png)](skype:extasy_hosting?add)
-
 **Only paypal is accepted, BTC coming soon

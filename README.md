@@ -46,12 +46,15 @@ To purchase the some hacks you will need to contact us over skype or email. We d
 
 ## Gallery
 **Client**
+
 ![N](https://cloud.githubusercontent.com/assets/7407741/22225411/588bef40-e190-11e6-9783-90c2bfb39f93.png)
 ![N](https://cloud.githubusercontent.com/assets/7407741/22225442/714f17e6-e190-11e6-92fa-22826ad74898.png)
 ![N](https://cloud.githubusercontent.com/assets/7407741/22225448/768bd0be-e190-11e6-9a05-07415b7cdd0f.gif)
 ![N](https://cloud.githubusercontent.com/assets/7407741/22225450/78a81c7c-e190-11e6-95e5-3b264a1010b4.gif)
+
 **ARMA 3**
-![N](https://youtu.be/USxhm3z0Etg)
+[![N](https://i.gyazo.com/3de47ef8f0439e4a4276d0d5c256bb43.mp4)](https://youtu.be/USxhm3z0Etg)
+
 **H1Z1**
 ![N](https://i.gyazo.com/54e0a7c563b4cdcbaf6b48592eaeda64.jpg)
 

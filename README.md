@@ -56,7 +56,7 @@ To purchase the some hacks you will need to contact us over skype or email. We d
 
 [![N](https://i.gyazo.com/c9ab231c2c93c4164bba4db626a9be93.png)](https://youtu.be/USxhm3z0Etg)
 
-[VIDEO](https://youtu.be/USxhm3z0Etg)
+**LINK TO VIDEO** [VIDEO](https://youtu.be/USxhm3z0Etg)
 
 **H1Z1**
 

@@ -47,8 +47,6 @@ To purchase the some hacks you will need to contact us over skype or email. We d
 ## Gallery
 **Client**
 
-![N](https://cloud.githubusercontent.com/assets/7407741/22225411/588bef40-e190-11e6-9783-90c2bfb39f93.png)
-![N](https://cloud.githubusercontent.com/assets/7407741/22225442/714f17e6-e190-11e6-92fa-22826ad74898.png)
 ![N](https://cloud.githubusercontent.com/assets/7407741/22225448/768bd0be-e190-11e6-9a05-07415b7cdd0f.gif)
 ![N](https://cloud.githubusercontent.com/assets/7407741/22225450/78a81c7c-e190-11e6-95e5-3b264a1010b4.gif)
 

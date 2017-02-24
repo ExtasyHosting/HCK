@@ -53,10 +53,12 @@ To purchase the some hacks you will need to contact us over skype or email. We d
 ![N](https://cloud.githubusercontent.com/assets/7407741/22225450/78a81c7c-e190-11e6-95e5-3b264a1010b4.gif)
 
 **ARMA 3**
+
 [![N](https://i.gyazo.com/c9ab231c2c93c4164bba4db626a9be93.png)](https://youtu.be/USxhm3z0Etg)
-![N](https://i.gyazo.com/3de47ef8f0439e4a4276d0d5c256bb43.gif)
+[VIDEO](https://youtu.be/USxhm3z0Etg)
 
 **H1Z1**
+
 ![N](https://i.gyazo.com/54e0a7c563b4cdcbaf6b48592eaeda64.jpg)
 
 

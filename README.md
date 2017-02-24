@@ -44,6 +44,10 @@ To purchase the some hacks you will need to contact us over skype or email. We d
 > - If you contact us by email you still need to have skype for the interview.
 > - We only accept Paypal for the moment, soon BTC will be accepted!
 
+## Wiki
+
+**COMING SOON**
+
 ## Gallery
 **Client**
 
@@ -60,8 +64,6 @@ To purchase the some hacks you will need to contact us over skype or email. We d
 
 ![N](https://i.gyazo.com/54e0a7c563b4cdcbaf6b48592eaeda64.jpg)
 
-**DAYZ**
-![N](https://i.gyazo.com/3ded8337fe16bba61b78714c2822469d.gif)
 
 
 
